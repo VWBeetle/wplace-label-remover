@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         Wplace Label Remover
 // @namespace    https://github.com/vwbeetle/wplace-label-remover
-// @version      1.5.0
+// @version      1.5.1
 // @description  Removes map labels from wplace.live
+// @downloadURL  https://raw.githubusercontent.com/vwbeetle/wplace-label-remover/main/wplace-label-remover.user.js
+// @updateURL    https://raw.githubusercontent.com/vwbeetle/wplace-label-remover/main/wplace-label-remover.user.js
 // @match        https://wplace.live/*
 // @run-at       document-start
 // @grant        none
