@@ -21,7 +21,7 @@ It has been tested with:
 ## Installation
 
 1. Install Tampermonkey in your browser.
-2. Click [this link](https://raw.githubusercontent.com/vwbeetle/wplace-label-remover/main/wplace-label-remover.user.js]) and Tampermonkey should prompt you to install the script
+2. Click [this link](https://raw.githubusercontent.com/vwbeetle/wplace-label-remover/main/wplace-label-remover.user.js) and Tampermonkey should prompt you to install the script
 3. Reload wplace.live
 
 Alternatively:
